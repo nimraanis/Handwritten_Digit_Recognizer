@@ -13,7 +13,6 @@ Draw a digit on the canvas, and the model predicts it in real time.
 
 ## 🚀 Usage
 ```bash
-git clone https://github.com/nimraanis/Handwritten-Digit-Recognizer.git
 cd Handwritten-Digit-Recognizer
 pip install tensorflow keras numpy pillow pywin32
 python train_model.py   # trains and saves mnist.h5
